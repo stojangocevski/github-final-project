@@ -4,7 +4,7 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author: Stojan Gocevski
+   # Author: stojangocevski
 
    # Input:
    # p, principal amount
